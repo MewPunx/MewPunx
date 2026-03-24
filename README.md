@@ -1,6 +1,8 @@
-## 👩‍🔬 Sobre mí
+## Sobre mí
 
 Soy Ingeniera en Biotecnología y Desarrolladora Web Fullstack Python Junior, con interés en integrar herramientas computacionales en problemas reales de ciencia y tecnología.
+
+----------------------------------------------------
 
 Mi enfoque combina:
 
@@ -10,36 +12,40 @@ Aplicaciones en biotecnología, bioinformática e industria alimentaria
 
 Actualmente estoy desarrollando proyectos que conectan ciencia + software, con especial interés en bioinformática y modelación de procesos.
 
+----------------------------------------------------
+
 🛠️ Tecnologías y herramientas
 
 Lenguajes y desarrollo web:
 
-Python
-Django
-JavaScript
-HTML / CSS
+- Python
+- Django
+- JavaScript
+- HTML / CSS
 
 Bases de datos:
 
-PostgreSQL
+- PostgreSQL
 
 Herramientas:
 
-Git / GitHub
-VS Code
-Excel
-Power BI
+- Git / GitHub
+- VS Code
+- Excel
+- Power BI
 
 Ciencia y biotecnología:
 
-Bioinformática
-Bases de Datos Biológicas
-Modelación de procesos
-Análisis de datos
-Biología Celular y Molecular
-Biotecnología Vegetal
+- Bioinformática
+- Bases de Datos Biológicas
+- Modelación de procesos
+- Análisis de datos
+- Biología Celular y Molecular
+- Biotecnología Vegetal
 
-🚀 Proyectos destacados
+----------------------------------------------------
+Proyectos destacados
+----------------------------------------------------
 🍷 Evaluación numérica de concentración de polifenoles en vino tinto
 
 Proyecto de tesis enfocado en la modelación del proceso de concentración de polifenoles mediante contactores de membrana.
@@ -51,6 +57,8 @@ Aplicación a sistema vino (12% etanol) / solución de CaCl₂ (20%)
 🔧 Stack: Python, modelación matemática, simulación numérica
 
 📌 Próximo paso: Migración a aplicación web interactiva para visualización y uso práctico del modelo.
+
+----------------------------------------------------
 
 🧬 Pheflux-SaaS
 
@@ -72,6 +80,8 @@ Finalistas en Santander X
 
 🔧 Área: Bioinformática, modelación metabólica
 
+----------------------------------------------------
+
 🎸 Alerta Rock
 
 Aplicación web enfocada en noticias y contenido del mundo del rock.
@@ -85,6 +95,8 @@ Interfaz con Bootstrap
 
 📌 Estado: Funcional, con secciones en desarrollo.
 
+----------------------------------------------------
+
 📚 Proyectos académicos (Desarrollo Web con Python)
 
 Colección de proyectos desarrollados durante formación en desarrollo web.
@@ -94,6 +106,8 @@ Estructuración de proyectos Django
 Manejo de rutas, vistas y templates
 
 🔧 Stack: Python, Django
+
+----------------------------------------------------
 
 🧪 Proyectos en desarrollo
 
@@ -108,6 +122,8 @@ Aplicación para organización y gestión de tareas en laboratorio.
 Juego (concepto en desarrollo)
 Proyecto personal en etapa temprana.
 
+----------------------------------------------------
+
 🔬 Áreas de interés
 Bioinformática
 Análisis de datos
@@ -115,10 +131,14 @@ Modelación de procesos
 Biotecnología vegetal
 Industria alimentaria
 
+----------------------------------------------------
+
 📈 Actualmente
 Mejorando mis habilidades en desarrollo fullstack
 Transformando modelos científicos en aplicaciones web
 Construyendo un portafolio que conecte ciencia y tecnología
+
+----------------------------------------------------
 
 📫 Contacto
 
