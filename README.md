@@ -145,6 +145,7 @@ Construyendo un portafolio que conecte ciencia y tecnología
 Email: jlefort@utem.cl
 LinkedIn: www.linkedin.com/in/javieralefort
 GitHub: [MewPunx](https://github.com/MewPunx/)
+Portafolio: https://mewpunx.github.io/
 ⚙️ Nota
 
 Este portafolio está en constante desarrollo. Algunos proyectos se encuentran en etapas tempranas o en proceso de mejora.
